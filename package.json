@@ -1,0 +1,17 @@
+{
+  "name": "webpack-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack",
+    "watch": "npm run dev --watch"  
+  },
+  "keywords": [],
+  "author": "Abrham Bas",
+  "license": "ISC",
+  "devDependencies": {
+    "jquery": "^3.2.1",
+    "webpack": "^2.4.1"
+  }
+}
